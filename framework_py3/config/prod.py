@@ -22,7 +22,7 @@ DATABASES.update(
             'NAME': 'study',  # 数据库名
             'USER': 'study_user',  # 数据库用户
             'PASSWORD': 'study_user',  # 数据库密码
-            'HOST': '172.19.186.31',  # 数据库主机
+            'HOST': '172.19.186.32',  # 数据库主机
             'PORT': '3306',  # 数据库端口
         },
     }
